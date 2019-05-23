@@ -1,0 +1,17 @@
+What design patterns did you use inside the application?
+ - I use Vanilla PHP for the application
+
+What libraries did you use?
+ - I did not use library
+
+Why did you use this library?
+
+Are there other libraries available?
+
+If yes, what made you choose this library over the others?
+
+What major challenges did you encounter when making the app?
+-Time. 48 hours is a enough time to create the application including the UI, but I'm currently in a situation wherein I was able to make the system for only a few hours.
+
+If you had more time, what additional features would you like to add?
+Probably use an MVC pattern for it and improve the UI of the application.
